@@ -1,0 +1,336 @@
+[
+
+  {
+    "slug": "nhamatanda-maior-escola-secundaria-pais",
+    "titulo": "Nhamatanda passa a ter a maior escola secundária do país",
+    "categoria": "Educação",
+    "data": "2026-02-28",
+
+    "imagem": "/images/noticias/escola-secundaria-nhamatanda.jpeg",
+
+    "galeria": [
+      "/images/noticias/escola-secundaria-nhamatanda-01.jpg",
+      "/images/noticias/escola-secundaria-nhamatanda-02.jpg",
+      "/images/noticias/escola-secundaria-nhamatanda-03.jpg"
+    ],
+
+    "resumo":
+      "A Escola Secundária Geral de Nhamatanda foi inaugurada com uma nova infraestrutura que amplia significativamente a capacidade de ensino secundário do distrito.",
+
+    "conteudo":
+      "A Escola Secundária Geral de Nhamatanda foi oficialmente inaugurada a 28 de Fevereiro de 2026, no âmbito das actividades de abertura do ano lectivo. A nova infraestrutura foi construída com apoio da Fundação de Caridade Tzu Chi e representa um dos principais investimentos recentes na expansão do ensino secundário em Nhamatanda. A escola passou a contar com novas salas de aula e espaços de apoio, incluindo laboratórios, biblioteca e sala de informática. A infraestrutura foi concebida para acolher cerca de 3.600 alunos e reforçar as condições de aprendizagem dos jovens do distrito.",
+
+    "autor": "Redacção",
+
+    "fonte": "Presidência da República de Moçambique",
+    "fonteUrl":
+      "https://presidencia.gov.mz/wp-content/uploads/2026/02/CI_PR-realiza-visita-de-trabalho-a%CC%80-provi%CC%81ncia-de-Sofala.pdf"
+  },
+
+
+  {
+    "slug": "instituto-ciencias-saude-nhamatanda-novas-instalacoes",
+    "titulo": "Instituto de Ciências de Saúde de Nhamatanda ganha novas instalações",
+    "categoria": "Educação",
+    "data": "2026-08-14",
+
+    "imagem":
+      "/images/noticias/instituto-saude-nhamatanda.jpg",
+
+    "galeria": [
+      "/images/noticias/instituto-saude-nhamatanda-01.jpeg",
+      "/images/noticias/instituto-saude-nhamatanda-02.jpeg",
+      "/images/noticias/instituto-saude-nhamatanda-03.png"
+    ],
+
+    "resumo":
+      "Novas instalações avaliadas em 34 milhões de meticais ampliam a capacidade do Instituto de Ciências de Saúde de Nhamatanda para mais de 200 estudantes.",
+
+    "conteudo":
+      "A Fundação de Caridade Tzu Chi entregou novas instalações do Instituto de Ciências de Saúde de Nhamatanda. Avaliada em 34 milhões de meticais, a infraestrutura inclui quatro salas de aula modernizadas, uma biblioteca e uma sala de informática. A nova estrutura permite aumentar significativamente a capacidade de acolhimento da instituição, que anteriormente acomodava cerca de 80 estudantes por turno.",
+
+    "autor": "Redacção",
+
+    "fonte": "Repórter Nacional",
+    "fonteUrl":
+      "https://rn.co.mz/nhamatanda-instituto-saude/"
+  },
+
+
+
+  {
+    "slug": "centro-saude-metuchira-nhamatanda",
+    "titulo": "Metuchira ganha novo centro de saúde para cerca de 13 mil habitantes",
+    "categoria": "Saúde",
+    "data": "2025-09-01",
+
+    "imagem":
+      "/images/noticias/centro-saude-metuchira.jpg",
+
+    "galeria": [
+      
+    ],
+
+    "resumo":
+      "A inauguração do Centro de Saúde de Metuchira melhorou o acesso aos cuidados de saúde para cerca de 13 mil habitantes da localidade.",
+
+    "conteudo":
+      "Cerca de 13 mil habitantes da localidade de Metuchira passaram a beneficiar de melhores condições de acesso aos cuidados de saúde com a inauguração do novo Centro de Saúde de Metuchira. A unidade foi construída com apoio da Fundação de Caridade Tzu Chi e integra os esforços de reconstrução e reforço das infraestruturas sociais de Nhamatanda.",
+
+    "autor": "Redacção",
+
+    "fonte": "Rádio Moçambique",
+    "fonteUrl":
+      "https://www.rm.co.mz/category/noticias/breves/page/18/"
+  },
+
+
+
+  {
+    "slug": "fabrica-processamento-fruta-nhamatanda",
+    "titulo": "Nhamatanda prepara instalação de fábrica de processamento de fruta",
+    "categoria": "Agricultura",
+    "data": "2025-09-01",
+
+    "imagem":
+      "/images/noticias/fabrica-processamento-fruta.jpg",
+
+    "galeria": [
+      
+    ],
+
+    "resumo":
+      "Uma unidade de processamento de fruta está prevista para Nhamatanda, com investimento anunciado próximo de 895 milhões de meticais.",
+
+    "conteudo":
+      "Nhamatanda foi indicado como local para a implantação de uma fábrica de processamento de fruta, projecto associado ao Parque Nacional da Gorongosa. Segundo a informação divulgada pela Rádio Moçambique, o investimento ronda 895 milhões de meticais e a unidade deverá processar frutas como ananás. O projecto foi apresentado como uma oportunidade para criar valor local e gerar emprego.",
+
+    "autor": "Redacção",
+
+    "fonte": "Rádio Moçambique",
+    "fonteUrl":
+      "https://www.rm.co.mz/a-primeira-do-genero-sofala-tera-fabrica-de-processamento-de-fruta-enlatada/"
+  },
+
+
+
+  {
+    "slug": "capacitacao-operadores-maquinas-agricolas-nhamatanda",
+    "titulo": "Nhamatanda integra formação de operadores de máquinas agrícolas",
+    "categoria": "Agricultura",
+    "data": "2026-06-06",
+
+    "imagem":
+      "/images/noticias/maquinas-agricolas.jpeg",
+
+    "galeria": [
+   
+    ],
+
+    "resumo":
+      "Operadores agrícolas de Nhamatanda participaram numa capacitação sobre preparação de solos e utilização de maquinaria agrícola.",
+
+    "conteudo":
+      "A Agência do Zambeze promoveu uma capacitação de operadores de máquinas agrícolas em Sofala. A formação contou com participantes provenientes de vários distritos, incluindo Nhamatanda, e abordou conhecimentos teóricos e práticos relacionados com preparação dos solos e utilização de máquinas agrícolas.",
+
+    "autor": "Agência do Zambeze",
+
+    "fonte": "Agência do Zambeze",
+    "fonteUrl":
+      "https://www.agenciadozambeze.gov.mz/%F0%9D%90%80%F0%9D%90%86e%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%88%F0%9D%90%80-%F0%9D%90%83%F0%9D%90%8E-%F0%9D%90%99%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%81%F0%9D%90%84%F0%9D%90%99%F0%9D%90%84-%F0%9D%90%82/"
+  },
+
+  {
+    "slug": "school-meal-3300-alunos-nhamatanda",
+    "titulo": "Programa de refeições escolares chega a 3.300 alunos de Nhamatanda",
+    "categoria": "Educação",
+    "data": "2026-07-14",
+
+    "imagem":
+      "/images/noticias/school-meal-nhamatanda.jpg",
+
+    "galeria": [
+  
+    ],
+
+    "resumo":
+      "A Fundação Tzu Chi lançou um programa de refeições escolares que deverá beneficiar 3.300 alunos de três escolas primárias de Nhamatanda.",
+
+    "conteudo":
+      "O projecto School Meal foi lançado no distrito de Nhamatanda para beneficiar 3.300 alunos de três escolas primárias construídas pela Fundação Tzu Chi. A iniciativa pretende reduzir o absentismo associado à insegurança alimentar e contribuir para a permanência das crianças na escola e para melhores resultados escolares.",
+
+    "autor": "Redacção",
+
+    "fonte": "Integrity Magazine",
+    "fonteUrl":
+      "https://integritymagazine.co.mz/arquivos/65855"
+  },
+
+  {
+    "slug": "uniformes-alunos-escolas-nhamatanda",
+    "titulo": "Alunos de Nhamatanda beneficiam de programa de uniformes escolares",
+    "categoria": "Educação",
+    "data": "2026-06-23",
+
+    "imagem":
+      "/images/noticias/uniformes-escolares.jpg",
+
+    "galeria": [
+      
+    ],
+
+    "resumo":
+      "A distribuição de uniformes escolares integra o programa de apoio continuado às escolas construídas pela Tzu Chi em Sofala.",
+
+    "conteudo":
+      "A Fundação Tzu Chi informou ter concluído a distribuição de uniformes escolares às escolas primárias construídas pela organização em Sofala. No âmbito do programa, a Escola Básica de Muda Mufo, no posto administrativo de Tica, recebeu o último lote de uniformes. A iniciativa integra o apoio continuado às comunidades abrangidas pelo projecto de reconstrução pós-Idai.",
+
+    "autor": "Redacção",
+
+    "fonte": "Integrity Magazine",
+    "fonteUrl":
+      "https://integritymagazine.co.mz/arquivos/64674"
+  },
+
+
+
+  {
+    "slug": "sistemas-agua-nhamatanda-unicef",
+    "titulo": "Quatro sistemas de água serão construídos em Nhamatanda",
+    "categoria": "Infraestrutura",
+    "data": "2026-04-16",
+
+    "imagem":
+      "/images/noticias/sistemas-agua-nhamatanda.jpeg",
+
+    "galeria": [
+      
+    ],
+
+    "resumo":
+      "Quatro sistemas multiuso de abastecimento de água alimentados por energia solar estão previstos para Nhamatanda no âmbito de um concurso lançado pelo UNICEF.",
+
+    "conteudo":
+      "O UNICEF lançou um concurso para a construção de quatro sistemas de abastecimento de água multiuso alimentados por energia solar no distrito de Nhamatanda e na cidade da Beira. O projecto pretende reforçar o acesso à água em escolas e unidades sanitárias, incluindo intervenções de expansão e reabilitação de sistemas existentes.",
+
+    "autor": "Redacção",
+
+    "fonte": "Jornal Notícias",
+    "fonteUrl":
+      "https://jornalnoticias.co.mz/destaque/quatro-sistemas-de-agua-serao-construidos-em-nhamatanda-e-beira/"
+  },
+
+
+  {
+    "slug": "reconstrucao-pos-idai-nhamatanda",
+    "titulo": "Reconstrução pós-Idai continua a transformar comunidades de Nhamatanda",
+    "categoria": "Infraestrutura",
+    "data": "2025-09-04",
+
+    "imagem":
+      "/images/noticias/reconstrucao-pos-idai.jpg",
+
+    "galeria": [
+
+    ],
+
+    "resumo":
+      "A reconstrução pós-Idai levou novas infraestruturas sociais às comunidades de Nhamatanda e de outros distritos de Sofala.",
+
+    "conteudo":
+      "O Presidente da República participou em cerimónias de entrega de infraestruturas construídas no âmbito do plano de reconstrução pós-ciclone Idai. O processo contou com a colaboração da Fundação Tzu Chi e incluiu investimentos em educação e habitação resiliente na província de Sofala.",
+
+    "autor": "Redacção",
+
+    "fonte": "Evidências",
+    "fonteUrl":
+      "https://evidencias.co.mz/2025/09/04/chapo-destaca-a-cooperacao-com-a-fundacao-tzu-chi-na-reconstrucao-de-sofala-apos-o-ciclone-idai/"
+  },
+
+  {
+    "slug": "electrificacao-bebedo-nhamatanda",
+    "titulo": "Bebedo avança para a electrificação da localidade",
+    "categoria": "Infraestrutura",
+    "data": "2025-09-10",
+
+    "imagem":
+      "/images/noticias/electrificacao-bebedo.jpg",
+
+    "galeria": [
+     
+    ],
+
+    "resumo":
+      "A expansão da rede eléctrica para Bebedo avançou em Nhamatanda, com previsão de novas ligações para comunidades do distrito.",
+
+    "conteudo":
+      "A Electricidade de Moçambique avançou com a expansão da rede eléctrica para a localidade de Bebedo, em Nhamatanda. A intervenção foi apresentada como parte da expansão do acesso à energia nas comunidades do distrito. Outras localidades também estavam contempladas em planos de expansão futuros.",
+
+    "autor": "Redacção",
+
+    "fonte": "Jornal Profundus",
+    "fonteUrl":
+      "https://profundusmz.com/nhamatanda-edm-expande-energia-electrica-para-localidade-de-bebedo/"
+  },
+
+
+
+  {
+    "slug": "recreativo-futebol-chapo-chapo-nhamatanda",
+    "titulo": "Nhamatanda acolhe lançamento do projecto Recreativo de Futebol Chapo Chapo",
+    "categoria": "Desporto",
+    "data": "2026-01-15",
+
+    "imagem":
+      "/images/noticias/futebol-nhamatanda.jpg",
+
+    "galeria": [
+      "/images/noticias/futebol-nhamatanda-01.jpg",
+      "/images/noticias/futebol-nhamatanda-02.jpg",
+      "/images/noticias/futebol-nhamatanda-03.jpg"
+    ],
+
+    "resumo":
+      "Nhamatanda foi escolhido para acolher o lançamento de uma iniciativa de futebol orientada para a juventude e desenvolvimento socioeconómico.",
+
+    "conteudo":
+      "O distrito de Nhamatanda foi escolhido para acolher o lançamento do projecto Recreativo de Futebol Chapo Chapo. A iniciativa foi apresentada como uma forma de ocupar a juventude, promover o desporto e explorar o seu potencial como instrumento de desenvolvimento socioeconómico.",
+
+    "autor": "Redacção",
+
+    "fonte": "Jornal Profundus",
+    "fonteUrl":
+      "https://profundusmz.com/zona-centro-nhamatanda-vai-acolher-o-lancamento-do-recreativo-de-futebol-chapo-chapo/"
+  },
+
+
+
+  {
+    "slug": "turismo-comunitario-nhamatanda-gorongosa",
+    "titulo": "Nhamatanda integra estratégia de turismo comunitário na região da Gorongosa",
+    "categoria": "Turismo",
+    "data": "2026-06-13",
+
+    "imagem":
+      "/images/noticias/turismo-comunitario.jpg",
+
+    "galeria": [
+      "/images/noticias/turismo-comunitario-01.jpg",
+      "/images/noticias/turismo-comunitario-02.jpg"
+    ],
+
+    "resumo":
+      "Nhamatanda integra iniciativas de turismo comunitário orientadas para inclusão, artesanato e desenvolvimento rural.",
+
+    "conteudo":
+      "Nhamatanda está entre os distritos abrangidos por iniciativas de turismo comunitário ligadas à região da Gorongosa. O trabalho envolve estratégias de inclusão das comunidades, valorização do artesanato e criação de oportunidades económicas associadas ao turismo local e ao desenvolvimento rural.",
+
+    "autor": "Redacção",
+
+    "fonte": "Jornal Profundus",
+    "fonteUrl":
+      "https://profundusmz.com/ademo-e-parceiros-esbocam-estrategias-de-inclusao-no-turismo-comunitario/"
+  }
+
+
+]

@@ -1,0 +1,1864 @@
+{
+  "schemaVersion": "1.0",
+  "carteira": "Programas Estruturantes do Distrito de Nhamatanda",
+  "notaEditorial": "Metas, estimativas e ambições devem ser distinguidas de resultados observados. Dados não confirmados devem permanecer como 'a validar', 'em estudo' ou ser ocultados na interface.",
+  "regrasImagem": {
+    "preferencia": "Fotografia documental real do distrito e mapas/diagramas próprios",
+    "hero": "16:9, mínimo recomendado 1920x1080",
+    "galeria": "mínimo 1600px no lado maior",
+    "creditosObrigatorios": true,
+    "altTextObrigatorio": true
+  },
+  "programas": [
+    {
+      "id": "programa-01",
+      "slug": "mesa-cheia",
+      "nome": "Mesa Cheia",
+      "assinatura": "Produzir. Conservar. Nutrir. Chegar a todos.",
+      "missao": "Segurança Alimentar e Agricultura",
+      "numeroMissao": 1,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa integrado de segurança alimentar que conecta produção, água, regadio, conservação, transformação, logística, rendimento e nutrição para reduzir vulnerabilidades e aumentar a disponibilidade de alimentos.",
+      "visao": "Trabalhar para que cada família tenha acesso regular a alimentação adequada e nutritiva, incluindo nas comunidades mais remotas.",
+      "problema": {
+        "descricao": "Produzir alimentos não elimina, por si só, a insegurança alimentar. É necessário compreender produção, sazonalidade, perdas, rendimento, conservação, distribuição e nutrição como partes da mesma cadeia.",
+        "questoesDiagnostico": [
+          "Produção e produtividade por cultura",
+          "Dependência das chuvas e área irrigada",
+          "Perdas pós-colheita",
+          "Capacidade de armazenamento e frio",
+          "Processamento local",
+          "Acesso a mercados",
+          "Situação nutricional e vulnerabilidade alimentar",
+          "Comunidades com maior dificuldade de abastecimento"
+        ],
+        "dadosEmFalta": [
+          "Linha de base de segurança alimentar",
+          "Produção anual por cultura",
+          "Mapa de regadio",
+          "Estimativa de perdas pós-colheita",
+          "Mapa de produtores, associações e mercados"
+        ]
+      },
+      "solucao": {
+        "descricao": "Construir uma cadeia alimentar distrital mais resiliente, do campo à mesa.",
+        "frentes": [
+          "Produzir Mais e Melhor",
+          "Regadio como Serviço",
+          "Rede de Frio",
+          "AgroTransforma",
+          "Nutrir",
+          "Mercado Local Primeiro",
+          "Última Milha Alimentar"
+        ]
+      },
+      "objetivos": [
+        "Aumentar produção e produtividade",
+        "Produzir durante mais meses do ano",
+        "Reduzir perdas pós-colheita",
+        "Estimular transformação local",
+        "Melhorar ligação a mercados",
+        "Acompanhar vulnerabilidade alimentar e nutrição"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Pequenos produtores",
+          "Cooperativas",
+          "Famílias vulneráveis",
+          "Comerciantes de alimentos"
+        ],
+        "indiretos": [
+          "Escolas e instituições",
+          "Transportadores",
+          "Agroindústrias",
+          "Consumidores"
+        ]
+      },
+      "impactoEsperado": [
+        "Maior disponibilidade de alimentos",
+        "Redução de perdas",
+        "Maior rendimento dos produtores",
+        "Mais transformação local",
+        "Melhor articulação entre agricultura e nutrição"
+      ],
+      "indicadores": [
+        "Produção por cultura",
+        "Área irrigada",
+        "Produtividade",
+        "Perdas pós-colheita",
+        "Capacidade de armazenamento",
+        "Produtores ligados a mercados",
+        "Indicadores oficiais de segurança alimentar e nutrição"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Produção",
+          "perfis": [
+            "Produtores",
+            "Cooperativas",
+            "Fornecedores de sementes e insumos",
+            "Irrigação"
+          ]
+        },
+        {
+          "tipo": "Mercado",
+          "perfis": [
+            "Compradores",
+            "Retalho",
+            "Agroindústria",
+            "Logística"
+          ]
+        },
+        {
+          "tipo": "Capital e conhecimento",
+          "perfis": [
+            "Bancos",
+            "Investigação agrícola",
+            "Cooperação",
+            "Nutrição"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Água e regadio"
+        },
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Bombagem, frio e transformação"
+        },
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Armazenamento, logística e mercados"
+        },
+        {
+          "slug": "synergy",
+          "nome": "SYNERGY",
+          "relacao": "Compradores, empresas e financiamento"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 8,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Produção agrícola local em escala humana"
+          },
+          {
+            "tipo": "producao",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "Culturas, produtores e campos"
+          },
+          {
+            "tipo": "aguaRegadio",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Sistema de regadio ou fonte produtiva"
+          },
+          {
+            "tipo": "posColheita",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Armazenamento, secagem ou conservação"
+          },
+          {
+            "tipo": "mercado",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Mercado, comprador ou comercialização"
+          },
+          {
+            "tipo": "nutricao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Alimentação diversificada sem exposição indevida de vulneráveis"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "aérea ou panorâmica",
+            "conteudo": "Paisagem agrícola do distrito"
+          }
+        ],
+        "evitar": [
+          "Stock agrícola estrangeiro",
+          "Imagens que estigmatizem famílias vulneráveis"
+        ]
+      },
+      "documentosDesejados": [
+        "Diagnóstico de segurança alimentar",
+        "Mapa agrícola",
+        "Plano de regadio",
+        "Estudo de perdas pós-colheita",
+        "Carteira de projetos agroindustriais"
+      ],
+      "cta": "Quero participar na cadeia alimentar",
+      "tituloMissaoPagina": "FOME ZERO & Autonomia Alimentar",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-02",
+      "slug": "agua-segura",
+      "nome": "Água Segura",
+      "assinatura": "Acesso que chega. Sistemas que permanecem.",
+      "missao": "Água e Saneamento",
+      "numeroMissao": 2,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa para expandir acesso sustentável a água segura, priorizando diagnóstico, recuperação de sistemas, expansão de cobertura, energia, manutenção e qualidade.",
+      "visao": "Fazer do funcionamento contínuo — e não apenas da construção — a medida do sucesso da infraestrutura de água.",
+      "problema": {
+        "descricao": "Novos sistemas não resolvem o problema se não houver manutenção, energia, gestão e controlo de qualidade.",
+        "questoesDiagnostico": [
+          "Comunidades e população servida",
+          "Fontes existentes",
+          "Sistemas funcionais e inoperacionais",
+          "Distância até à água",
+          "Qualidade",
+          "Energia para bombagem",
+          "Manutenção e peças"
+        ],
+        "dadosEmFalta": [
+          "Inventário georreferenciado",
+          "Taxa oficial de cobertura",
+          "Estado funcional dos sistemas",
+          "Resultados de qualidade da água"
+        ]
+      },
+      "solucao": {
+        "descricao": "Unir infraestrutura, manutenção, qualidade, energia e gestão numa única estratégia de segurança hídrica.",
+        "frentes": [
+          "Mapa da Água",
+          "Reabilitar Primeiro",
+          "Expansão de Cobertura",
+          "Solar Water",
+          "Água que Funciona",
+          "Qualidade da Água",
+          "Água Produtiva"
+        ]
+      },
+      "objetivos": [
+        "Mapear necessidades",
+        "Recuperar sistemas viáveis",
+        "Expandir cobertura prioritária",
+        "Criar mecanismos de manutenção",
+        "Acompanhar qualidade",
+        "Articular energia e água"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Famílias",
+          "Escolas",
+          "Unidades sanitárias",
+          "Comunidades rurais"
+        ],
+        "indiretos": [
+          "Produtores",
+          "Serviços públicos",
+          "Pequenos negócios"
+        ]
+      },
+      "impactoEsperado": [
+        "Maior acesso a fontes seguras",
+        "Mais sistemas funcionais",
+        "Menor distância de acesso onde aplicável",
+        "Melhor sustentabilidade operacional"
+      ],
+      "indicadores": [
+        "Cobertura oficial",
+        "Sistemas funcionais",
+        "Tempo/distância de acesso",
+        "Continuidade",
+        "Qualidade conforme normas aplicáveis",
+        "Tempo de reparação"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Técnico",
+          "perfis": [
+            "Engenharia de água",
+            "Bombagem solar",
+            "Tratamento",
+            "Laboratórios"
+          ]
+        },
+        {
+          "tipo": "Operação",
+          "perfis": [
+            "Manutenção",
+            "Gestão comunitária",
+            "Fornecedores de peças"
+          ]
+        },
+        {
+          "tipo": "Capital",
+          "perfis": [
+            "Cooperação",
+            "Financiamento climático",
+            "Instituições financeiras"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "vida-perto",
+          "nome": "Vida Perto",
+          "relacao": "Saúde e higiene"
+        },
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Produção e regadio"
+        },
+        {
+          "slug": "horizonte",
+          "nome": "Horizonte",
+          "relacao": "Água e saneamento nas escolas"
+        },
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Bombagem e sistemas solares"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 7,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Fonte de água e comunidade em contexto digno"
+          },
+          {
+            "tipo": "infraestrutura",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "Furo, sistema, reservatório ou rede"
+          },
+          {
+            "tipo": "manutencao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Técnicos ou manutenção"
+          },
+          {
+            "tipo": "qualidade",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Teste ou tratamento de água"
+          },
+          {
+            "tipo": "solar",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Bombagem solar"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Comunidade atendida ou a priorizar"
+          }
+        ],
+        "evitar": [
+          "Imagens humilhantes de vulnerabilidade",
+          "Água visualmente imprópria usada apenas para dramatização"
+        ]
+      },
+      "documentosDesejados": [
+        "Inventário de sistemas",
+        "Mapa hídrico",
+        "Plano de reabilitação",
+        "Plano de manutenção",
+        "Protocolos de qualidade"
+      ],
+      "cta": "Quero contribuir para a segurança da água",
+      "tituloMissaoPagina": "Água, Saúde & Dignidade",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-03",
+      "slug": "horizonte",
+      "nome": "Horizonte",
+      "assinatura": "Aprender aqui. Ir mais longe.",
+      "missao": "Educação, Competências e Oportunidades",
+      "numeroMissao": 3,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa para melhorar condições de aprendizagem e criar pontes entre escola, competências, bolsas, formação profissional, tecnologia e oportunidades de futuro.",
+      "visao": "Fazer da educação uma ponte entre conhecimento, oportunidade e autonomia, independentemente da comunidade onde o aluno nasceu.",
+      "problema": {
+        "descricao": "O desafio não é apenas colocar alunos na escola; é melhorar progressivamente condições, aprendizagem, acesso a oportunidades e transição para formação, trabalho ou empreendedorismo.",
+        "questoesDiagnostico": [
+          "Condições físicas das escolas",
+          "Água, saneamento e energia",
+          "Necessidades de professores e materiais",
+          "Resultados de aprendizagem disponíveis",
+          "Acesso digital",
+          "Oferta de formação profissional",
+          "Acesso a bolsas e oportunidades"
+        ],
+        "dadosEmFalta": [
+          "Inventário atualizado das escolas",
+          "Mapa de necessidades",
+          "Indicadores oficiais de aprendizagem",
+          "Perfil de competências procuradas pela economia local"
+        ]
+      },
+      "solucao": {
+        "descricao": "Conectar escola, competências e oportunidades numa trajetória de desenvolvimento humano.",
+        "frentes": [
+          "Escola Digna",
+          "Professor+",
+          "Competências Digitais",
+          "Formação Profissional",
+          "Bolsa Horizonte",
+          "Talento Local",
+          "Escola-Economia"
+        ]
+      },
+      "objetivos": [
+        "Melhorar condições de aprendizagem",
+        "Apoiar formação contínua",
+        "Democratizar acesso a bolsas",
+        "Expandir competências digitais e profissionais",
+        "Aproximar formação das necessidades económicas"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Alunos",
+          "Professores",
+          "Jovens",
+          "Candidatos a bolsas e formação"
+        ],
+        "indiretos": [
+          "Famílias",
+          "Empresas locais",
+          "Instituições de ensino",
+          "Comunidades"
+        ]
+      },
+      "impactoEsperado": [
+        "Escolas com melhores condições",
+        "Mais acesso a oportunidades de formação",
+        "Maior exposição a competências digitais e profissionais",
+        "Melhor ligação entre educação e economia"
+      ],
+      "indicadores": [
+        "Escolas com condições essenciais",
+        "Participação em formação",
+        "Oportunidades e bolsas divulgadas",
+        "Candidaturas apoiadas",
+        "Jovens em formação profissional",
+        "Indicadores oficiais de aprendizagem"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Educação",
+          "perfis": [
+            "Instituições de ensino",
+            "Universidades",
+            "Centros de formação"
+          ]
+        },
+        {
+          "tipo": "Tecnologia",
+          "perfis": [
+            "EdTech",
+            "Telecomunicações",
+            "Empresas tecnológicas"
+          ]
+        },
+        {
+          "tipo": "Oportunidades",
+          "perfis": [
+            "Fundações",
+            "Programas de bolsas",
+            "Empresas",
+            "Diáspora"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Energia para escolas"
+        },
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Água e saneamento escolar"
+        },
+        {
+          "slug": "synergy",
+          "nome": "SYNERGY",
+          "relacao": "Estágios, empresas e oportunidades"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Plataformas digitais e dados"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 6,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Ambiente escolar real e positivo"
+          },
+          {
+            "tipo": "escola",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "Infraestrutura e aprendizagem"
+          },
+          {
+            "tipo": "professores",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Docentes em atividade"
+          },
+          {
+            "tipo": "competencias",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Formação técnica ou digital"
+          },
+          {
+            "tipo": "oportunidades",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Jovens em formação, laboratório ou biblioteca"
+          }
+        ],
+        "evitar": [
+          "Menores identificáveis sem consentimento",
+          "Imagens de stock que não representem o distrito"
+        ]
+      },
+      "documentosDesejados": [
+        "Diagnóstico educacional",
+        "Mapa escolar",
+        "Plano de competências",
+        "Catálogo de bolsas e oportunidades",
+        "Quadro de indicadores"
+      ],
+      "cta": "Quero abrir oportunidades para os jovens",
+      "tituloMissaoPagina": "Educação, Talento & Emprego",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-04",
+      "slug": "synergy",
+      "nome": "SYNERGY",
+      "assinatura": "Empresas preparadas. Mercados conectados. Capital com propósito.",
+      "missao": "Empreendedorismo, Investimento e Mercados",
+      "numeroMissao": 4,
+      "tipo": "Plataforma Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Ecossistema para preparar empresas e produtores, conectar compradores, financiamento, conhecimento, investimento e oportunidades nacionais e internacionais.",
+      "visao": "Transformar potencial económico disperso numa rede organizada de empresas, mercados, capital e oportunidades.",
+      "problema": {
+        "descricao": "Empreendedores e produtores podem ter potencial sem documentação, informação, escala, acesso a compradores ou preparação para financiamento.",
+        "questoesDiagnostico": [
+          "Número e perfil de empresas",
+          "Formalização",
+          "Acesso a mercados",
+          "Necessidades de financiamento",
+          "Capacidade de gestão",
+          "Cadeias de valor",
+          "Compradores e empresas âncora"
+        ],
+        "dadosEmFalta": [
+          "Censo empresarial distrital",
+          "Mapa de cadeias de valor",
+          "Perfil de necessidades financeiras",
+          "Base de compradores e parceiros"
+        ]
+      },
+      "solucao": {
+        "descricao": "Criar uma rede de desenvolvimento empresarial e investimento que prepare, conecte e acompanhe oportunidades.",
+        "frentes": [
+          "Business Network",
+          "Business Ready",
+          "Market Access",
+          "Investment Ready",
+          "Deal Room",
+          "Diaspora Connect",
+          "Market Intelligence"
+        ]
+      },
+      "objetivos": [
+        "Organizar o ecossistema empresarial",
+        "Melhorar preparação das empresas",
+        "Conectar oferta e procura",
+        "Facilitar acesso a financiamento sem o prometer",
+        "Promover oportunidades de investimento",
+        "Criar ligações externas"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Empreendedores",
+          "Produtores",
+          "Cooperativas",
+          "PME",
+          "Empresas em crescimento"
+        ],
+        "indiretos": [
+          "Compradores",
+          "Bancos",
+          "Investidores",
+          "Jovens",
+          "Prestadores de serviços"
+        ]
+      },
+      "impactoEsperado": [
+        "Empresas mais preparadas",
+        "Mais ligações comerciais",
+        "Melhor qualidade de dossiers de financiamento",
+        "Maior visibilidade das oportunidades locais",
+        "Novas relações com mercados externos"
+      ],
+      "indicadores": [
+        "Empresas registadas",
+        "Empresas capacitadas",
+        "Ligações comerciais realizadas",
+        "Dossiers preparados",
+        "Oportunidades apresentadas",
+        "Investimento ou contratos mobilizados quando comprovados"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Mercado",
+          "perfis": [
+            "Compradores",
+            "Grandes empresas",
+            "Câmaras de comércio"
+          ]
+        },
+        {
+          "tipo": "Capital",
+          "perfis": [
+            "Bancos",
+            "Fundos",
+            "Investidores",
+            "Fintechs"
+          ]
+        },
+        {
+          "tipo": "Conhecimento",
+          "perfis": [
+            "Incubadoras",
+            "Aceleradoras",
+            "Universidades",
+            "Diáspora"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Agronegócio e compradores"
+        },
+        {
+          "slug": "horizonte",
+          "nome": "Horizonte",
+          "relacao": "Talento, estágios e competências"
+        },
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Logística, indústria e oportunidades"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Portal, dados e Deal Room"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 7,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Empreendedores e atividade económica local"
+          },
+          {
+            "tipo": "empresaLocal",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "PME, produtor ou negócio real"
+          },
+          {
+            "tipo": "mercado",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Compra, venda ou cadeia de valor"
+          },
+          {
+            "tipo": "capacitacao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Sessão empresarial ou mentoria"
+          },
+          {
+            "tipo": "investimento",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Encontro empresarial/institucional"
+          },
+          {
+            "tipo": "produtoLocal",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Produto ou serviço produzido no distrito"
+          }
+        ],
+        "evitar": [
+          "Aperto de mãos genérico de stock",
+          "Imagens que sugiram financiamento já garantido"
+        ]
+      },
+      "documentosDesejados": [
+        "Censo empresarial",
+        "Mapa de cadeias de valor",
+        "Manual de participação",
+        "Pipeline de oportunidades",
+        "Critérios de Investment Ready"
+      ],
+      "cta": "Quero entrar na rede SYNERGY",
+      "tituloMissaoPagina": "Empresas, Investimento & Oportunidades",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-05",
+      "slug": "corredor-produtivo",
+      "nome": "Corredor Produtivo",
+      "assinatura": "Transformar passagem em valor.",
+      "missao": "Infraestrutura, Mobilidade e Logística",
+      "numeroMissao": 5,
+      "tipo": "Programa Económico Territorial",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa para transformar conectividade territorial em atividade económica local, articulando acessos produtivos, armazenamento, logística, processamento, transporte e mercados.",
+      "visao": "Fazer com que a posição de Nhamatanda no Corredor da Beira gere mais serviços, negócios, emprego e valor acrescentado dentro do distrito.",
+      "problema": {
+        "descricao": "A conectividade territorial só produz desenvolvimento local quando produção, infraestrutura, logística e mercado conseguem funcionar como uma cadeia.",
+        "questoesDiagnostico": [
+          "Estado dos acessos produtivos",
+          "Fluxos de mercadorias",
+          "Produção por zona",
+          "Capacidade de armazenamento",
+          "Serviços ao transporte",
+          "Infraestrutura ferroviária e rodoviária relevante",
+          "Áreas para logística e indústria"
+        ],
+        "dadosEmFalta": [
+          "Estudo de fluxos logísticos",
+          "Mapa de acessos produtivos",
+          "Procura de armazenamento",
+          "Localização validada de projetos âncora",
+          "Estudos técnicos e ambientais"
+        ]
+      },
+      "solucao": {
+        "descricao": "Estruturar uma rede de infraestrutura produtiva que conecte produção, processamento, armazenamento, transporte e mercado.",
+        "frentes": [
+          "Centro Logístico e Agroindustrial",
+          "Estradas Produtivas",
+          "Centros de Agregação",
+          "Rede de Frio",
+          "Serviços ao Transporte",
+          "Mercado Grossista quando viável",
+          "Logística Digital"
+        ]
+      },
+      "objetivos": [
+        "Reduzir gargalos logísticos",
+        "Melhorar acesso de produtores a mercados",
+        "Atrair operadores e empresas",
+        "Estimular processamento local",
+        "Capturar mais valor económico da conectividade territorial"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Produtores",
+          "Transportadores",
+          "Comerciantes",
+          "Agroindústrias",
+          "Operadores logísticos"
+        ],
+        "indiretos": [
+          "PME",
+          "Trabalhadores",
+          "Consumidores",
+          "Distritos e mercados conectados"
+        ]
+      },
+      "impactoEsperado": [
+        "Mais capacidade logística",
+        "Menores perdas e gargalos",
+        "Mais serviços ao transporte",
+        "Maior atração de investimento produtivo",
+        "Mais emprego e atividade económica"
+      ],
+      "indicadores": [
+        "Capacidade de armazenamento",
+        "Volume movimentado",
+        "Empresas utilizadoras",
+        "Produtores atendidos",
+        "Empregos",
+        "Investimento mobilizado quando comprovado"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Operação",
+          "perfis": [
+            "Operadores logísticos",
+            "Transportadores",
+            "Cold chain",
+            "Agroindústria"
+          ]
+        },
+        {
+          "tipo": "Infraestrutura",
+          "perfis": [
+            "EPCs",
+            "Engenharia",
+            "Desenvolvedores de infraestrutura"
+          ]
+        },
+        {
+          "tipo": "Capital e mercado",
+          "perfis": [
+            "Bancos",
+            "Fundos",
+            "Investidores",
+            "Compradores"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Origem de produção e procura logística"
+        },
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Energia para infraestrutura e indústria"
+        },
+        {
+          "slug": "synergy",
+          "nome": "SYNERGY",
+          "relacao": "Empresas, compradores e capital"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Mapas, dados e logística digital"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 8,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Corredor, estrada, ferrovia ou paisagem logística real"
+          },
+          {
+            "tipo": "corredor",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Infraestrutura de conectividade"
+          },
+          {
+            "tipo": "producao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Origem agrícola das cargas"
+          },
+          {
+            "tipo": "armazenamento",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Área/armazém existente ou referência conceitual claramente identificada"
+          },
+          {
+            "tipo": "transporte",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Camiões, ferrovia ou movimentação"
+          },
+          {
+            "tipo": "mercado",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Destino comercial"
+          },
+          {
+            "tipo": "terreno",
+            "quantidade": 1,
+            "orientacao": "aérea",
+            "conteudo": "Área proposta quando validada"
+          },
+          {
+            "tipo": "mapa",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Mapa/diagrama do corredor e ligações"
+          }
+        ],
+        "evitar": [
+          "Render apresentado como obra existente",
+          "Localização não confirmada apresentada como definitiva"
+        ]
+      },
+      "documentosDesejados": [
+        "Estudo logístico",
+        "Mapa de fluxos",
+        "Estudo de viabilidade",
+        "Plantas e terreno",
+        "Modelo de PPP/concessão quando aplicável"
+      ],
+      "cta": "Quero explorar oportunidades no corredor",
+      "tituloMissaoPagina": "Corredor, Logística & Infra-estrutura",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-06",
+      "slug": "chao-firme",
+      "nome": "Chão Firme",
+      "assinatura": "Mais seguro. Mais preparado. Mais nosso.",
+      "missao": "Resiliência, Território e Habitação",
+      "numeroMissao": 6,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estudo",
+      "prioridade": "Estratégica",
+      "resumo": "Programa para reduzir a exposição a cheias e outros riscos climáticos, organizar o uso do território e melhorar progressivamente as condições de habitação, com foco em assentamentos mais seguros e preparados.",
+      "visao": "Construir um distrito onde o crescimento das comunidades acontece de forma ordenada e segura, com território conhecido, riscos geridos e habitação digna ao alcance de mais famílias.",
+      "problema": {
+        "descricao": "Nhamatanda cresceu em parte pela chegada de deslocados durante o conflito armado, gerando assentamentos pouco ordenados em torno da Vila-Sede, numa área também sujeita a cheias associadas aos rios da região.",
+        "questoesDiagnostico": [
+          "Áreas de maior exposição a cheias e outros riscos",
+          "Ocupação do solo e assentamentos não planeados",
+          "Condições atuais de habitação",
+          "Capacidade de resposta e abrigo em situação de emergência",
+          "Posse e regularização de terra",
+          "Infraestrutura de drenagem existente"
+        ],
+        "dadosEmFalta": [
+          "Mapa de risco de cheias atualizado",
+          "Cadastro de assentamentos informais",
+          "Plano de uso de terra atualizado (PDUT)",
+          "Inventário de habitação precária"
+        ]
+      },
+      "solucao": {
+        "descricao": "Unir conhecimento do território, planeamento do uso do solo, gestão de risco e melhoria habitacional numa só estratégia de resiliência.",
+        "frentes": [
+          "Mapa de Risco",
+          "Ordenamento do Território",
+          "Terra Regularizada",
+          "Habitação Progressiva",
+          "Drenagem e Proteção",
+          "Comunidade Preparada"
+        ]
+      },
+      "objetivos": [
+        "Mapear áreas de maior risco",
+        "Ordenar a ocupação do solo em zonas críticas",
+        "Apoiar regularização de terra",
+        "Melhorar condições de habitação",
+        "Reforçar capacidade de resposta a emergências",
+        "Reduzir exposição a cheias"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Famílias em zonas de risco",
+          "Comunidades da Vila-Sede e arredores",
+          "Famílias deslocadas e reassentadas"
+        ],
+        "indiretos": [
+          "Administração distrital",
+          "Serviços de proteção civil",
+          "Comunidades vizinhas"
+        ]
+      },
+      "impactoEsperado": [
+        "Menor exposição da população a cheias",
+        "Crescimento urbano mais ordenado",
+        "Mais famílias com terra regularizada",
+        "Melhores condições de habitação",
+        "Maior capacidade de resposta a emergências"
+      ],
+      "indicadores": [
+        "Área mapeada como zona de risco",
+        "Assentamentos abrangidos por ordenamento",
+        "Processos de regularização de terra",
+        "Habitações melhoradas",
+        "Planos de contingência atualizados"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Institucional",
+          "perfis": [
+            "Serviços de cadastro e ordenamento",
+            "Proteção civil",
+            "Autoridades distritais"
+          ]
+        },
+        {
+          "tipo": "Técnico",
+          "perfis": [
+            "Engenharia civil",
+            "Hidrologia",
+            "Planeamento urbano",
+            "Habitação social"
+          ]
+        },
+        {
+          "tipo": "Desenvolvimento",
+          "perfis": [
+            "Cooperação para redução de risco de desastres",
+            "Fundações",
+            "Organizações de habitação"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Drenagem e gestão hídrica"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Mapas e dados territoriais"
+        },
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Infraestrutura e acessos"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 6,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Território e comunidade em contexto real"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Vista do distrito ou zona de risco identificada"
+          },
+          {
+            "tipo": "assentamento",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Assentamento ou bairro em processo de ordenamento"
+          },
+          {
+            "tipo": "habitacao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Habitação típica ou em melhoria"
+          },
+          {
+            "tipo": "mapa",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Mapa de risco ou de ordenamento"
+          },
+          {
+            "tipo": "comunidade",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Reunião comunitária ou ação de preparação"
+          }
+        ],
+        "evitar": [
+          "Imagens de destruição ou sofrimento usadas de forma sensacionalista",
+          "Fotos que exponham famílias de forma indigna"
+        ]
+      },
+      "documentosDesejados": [
+        "Mapa de risco de cheias",
+        "Plano de Uso de Terra atualizado (PDUT)",
+        "Cadastro de assentamentos",
+        "Plano de contingência distrital",
+        "Estudo de habitação"
+      ],
+      "cta": "Quero contribuir para um território mais seguro",
+      "tituloMissaoPagina": "Resiliência, Território & Habitação",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-07",
+      "slug": "distrito-inteligente",
+      "nome": "Distrito Inteligente",
+      "assinatura": "Conhecer melhor. Decidir melhor. Servir melhor.",
+      "missao": "Governação, Tecnologia e Dados",
+      "numeroMissao": 7,
+      "tipo": "Programa de Transformação Institucional",
+      "estado": "Em desenvolvimento",
+      "prioridade": "Estratégica",
+      "resumo": "Programa de transformação digital e inteligência territorial para aproximar Governo, cidadão, dados, projetos, serviços, investimento e tomada de decisão.",
+      "visao": "Construir uma administração que consiga localizar necessidades, organizar informação, acompanhar execução e prestar serviços com maior transparência e capacidade de resposta.",
+      "problema": {
+        "descricao": "Informação dispersa, processos pouco integrados e ausência de visão consolidada dificultam acompanhamento, prestação de contas e decisões baseadas em evidência.",
+        "questoesDiagnostico": [
+          "Fluxos administrativos",
+          "Sistemas e ficheiros existentes",
+          "Gestão documental",
+          "Projetos e tarefas",
+          "Orçamento e prazos",
+          "Dados territoriais",
+          "Serviços ao cidadão",
+          "Segurança e proteção de dados"
+        ],
+        "dadosEmFalta": [
+          "Mapa de processos",
+          "Inventário de sistemas",
+          "Matriz de dados",
+          "Requisitos funcionais e institucionais",
+          "Política de governação de dados"
+        ]
+      },
+      "solucao": {
+        "descricao": "Criar progressivamente uma camada digital comum para gestão executiva, serviços ao cidadão, inteligência territorial e investimento.",
+        "frentes": [
+          "Portal Público",
+          "Nhamatanda Resolve",
+          "Gestão Executiva",
+          "Gestão Documental",
+          "Projetos e Tarefas",
+          "Orçamento e Indicadores",
+          "Mapa e Inteligência Territorial",
+          "Invest Nhamatanda",
+          "Automação e IA responsável"
+        ]
+      },
+      "objetivos": [
+        "Aproximar informação e serviços do cidadão",
+        "Dar visão executiva à Administração",
+        "Melhorar acompanhamento de projetos e tarefas",
+        "Consolidar indicadores territoriais",
+        "Apoiar transparência e investimento",
+        "Reduzir fragmentação documental"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Cidadãos",
+          "Administração distrital",
+          "Serviços públicos",
+          "Investidores e parceiros"
+        ],
+        "indiretos": [
+          "Empresas",
+          "Comunidades",
+          "Investigadores",
+          "Organizações de desenvolvimento"
+        ]
+      },
+      "impactoEsperado": [
+        "Informação pública mais acessível",
+        "Maior rastreabilidade de projetos e responsabilidades",
+        "Decisões apoiadas por dados",
+        "Melhor experiência de cidadãos e investidores",
+        "Base digital comum aos outros programas"
+      ],
+      "indicadores": [
+        "Serviços/informações digitalizados",
+        "Projetos acompanhados",
+        "Processos com estado consultável",
+        "Indicadores territoriais disponíveis",
+        "Tempo de resposta quando mensurável",
+        "Utilização das plataformas"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Tecnologia",
+          "perfis": [
+            "GovTech",
+            "Software",
+            "Cloud",
+            "GIS",
+            "Cibersegurança",
+            "Telecomunicações"
+          ]
+        },
+        {
+          "tipo": "Conhecimento",
+          "perfis": [
+            "Universidades",
+            "Dados",
+            "Transformação digital"
+          ]
+        },
+        {
+          "tipo": "Institucional",
+          "perfis": [
+            "Entidades públicas",
+            "Parceiros de desenvolvimento"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "vida-perto",
+          "nome": "Vida Perto",
+          "relacao": "Indicadores e mapa sanitário"
+        },
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Dados agrícolas e segurança alimentar"
+        },
+        {
+          "slug": "horizonte",
+          "nome": "Horizonte",
+          "relacao": "Educação e oportunidades"
+        },
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Mapa energético"
+        },
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Inventário georreferenciado"
+        },
+        {
+          "slug": "synergy",
+          "nome": "SYNERGY",
+          "relacao": "Empresas e oportunidades"
+        },
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Infraestrutura e logística"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 7,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Administração, território e tecnologia em contexto real"
+          },
+          {
+            "tipo": "governo",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Equipa/serviço público em trabalho"
+          },
+          {
+            "tipo": "cidadao",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Interação com serviço público"
+          },
+          {
+            "tipo": "mapa",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Mapa territorial real do portal"
+          },
+          {
+            "tipo": "dashboard",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Interface real/protótipo claramente identificado"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Distrito e infraestrutura"
+          },
+          {
+            "tipo": "investimento",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Oportunidade ou interação institucional"
+          }
+        ],
+        "evitar": [
+          "Interfaces fictícias apresentadas como sistemas operacionais",
+          "Imagens genéricas de IA/robôs"
+        ]
+      },
+      "documentosDesejados": [
+        "Documento de visão",
+        "Levantamento de requisitos",
+        "Arquitetura funcional",
+        "Política de dados",
+        "Plano de implementação por fases"
+      ],
+      "cta": "Quero colaborar na transformação digital",
+      "tituloMissaoPagina": "Governo Próximo & Digital",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-08",
+      "slug": "raizes",
+      "nome": "Raízes",
+      "assinatura": "Valorizar o que somos. Mostrar ao mundo.",
+      "missao": "Cultura, Identidade e Turismo",
+      "numeroMissao": 8,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estudo",
+      "prioridade": "Estratégica",
+      "resumo": "Programa para valorizar o património cultural, histórico e natural de Nhamatanda, fortalecendo a identidade local e criando condições para o desenvolvimento responsável do turismo.",
+      "visao": "Fazer da história, das tradições e da paisagem de Nhamatanda uma fonte de orgulho para quem vive no distrito e um motivo de visita para quem vem de fora.",
+      "problema": {
+        "descricao": "O distrito tem património histórico, tradições vivas — como as danças Utsé, Massesseto, Marimba, Ntanda, Mapaza, Mucapa e Chitonga — e gastronomia própria, mas esse potencial ainda não está documentado nem estruturado para visita ou valorização económica.",
+        "questoesDiagnostico": [
+          "Património histórico e cultural existente",
+          "Tradições, danças e gastronomia locais",
+          "Locais com potencial turístico ou paisagístico",
+          "Infraestrutura de acolhimento disponível",
+          "Grupos e artesãos culturais ativos",
+          "Eventos e calendário cultural do distrito"
+        ],
+        "dadosEmFalta": [
+          "Inventário do património cultural e histórico",
+          "Mapa de locais de interesse turístico",
+          "Levantamento de grupos culturais e artesãos",
+          "Estudo de viabilidade turística"
+        ]
+      },
+      "solucao": {
+        "descricao": "Documentar, preservar e valorizar o património cultural e natural do distrito, criando bases para turismo comunitário e responsável.",
+        "frentes": [
+          "Memória de Nhamatanda",
+          "Rota Cultural",
+          "Artesãos e Tradição",
+          "Turismo Comunitário",
+          "Calendário de Eventos",
+          "Nhamatanda ao Mundo"
+        ]
+      },
+      "objetivos": [
+        "Documentar o património histórico e cultural",
+        "Apoiar grupos culturais e artesãos",
+        "Identificar e preparar locais de interesse turístico",
+        "Criar um calendário de eventos culturais",
+        "Promover a identidade do distrito",
+        "Explorar oportunidades de turismo responsável"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Grupos culturais e de dança",
+          "Artesãos locais",
+          "Guias e prestadores de serviços turísticos",
+          "Comunidades com património local"
+        ],
+        "indiretos": [
+          "Comércio local",
+          "Jovens",
+          "Visitantes",
+          "Administração distrital"
+        ]
+      },
+      "impactoEsperado": [
+        "Património histórico documentado e preservado",
+        "Maior visibilidade da identidade cultural do distrito",
+        "Novas oportunidades ligadas ao turismo comunitário",
+        "Mais apoio a grupos culturais e artesãos",
+        "Fortalecimento do orgulho e pertença local"
+      ],
+      "indicadores": [
+        "Locais de património inventariados",
+        "Grupos culturais apoiados",
+        "Eventos culturais realizados",
+        "Visitantes recebidos quando aplicável",
+        "Materiais de divulgação produzidos"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Institucional",
+          "perfis": [
+            "Serviços de cultura e turismo",
+            "Autoridades tradicionais",
+            "Administração distrital"
+          ]
+        },
+        {
+          "tipo": "Técnico",
+          "perfis": [
+            "Antropologia",
+            "Museologia",
+            "Turismo comunitário",
+            "Design e comunicação"
+          ]
+        },
+        {
+          "tipo": "Desenvolvimento",
+          "perfis": [
+            "Organizações culturais",
+            "Cooperação para o património",
+            "Fundações"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Acessos e infraestrutura de apoio"
+        },
+        {
+          "slug": "synergy",
+          "nome": "SYNERGY",
+          "relacao": "Empreendedorismo em turismo e artesanato"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Mapas e divulgação digital"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 7,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Paisagem ou património cultural do distrito"
+          },
+          {
+            "tipo": "patrimonio",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Vestígio histórico ou construção de valor patrimonial"
+          },
+          {
+            "tipo": "tradicao",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "Dança, cerimónia ou prática cultural"
+          },
+          {
+            "tipo": "artesanato",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Artesão ou produto local"
+          },
+          {
+            "tipo": "gastronomia",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Prato típico do distrito"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Paisagem natural com potencial turístico"
+          }
+        ],
+        "evitar": [
+          "Imagens de stock sem relação com o distrito",
+          "Representações estereotipadas ou folclorizadas da cultura local"
+        ]
+      },
+      "documentosDesejados": [
+        "Inventário do património cultural",
+        "Mapa de locais de interesse turístico",
+        "Estudo de viabilidade turística",
+        "Calendário cultural distrital"
+      ],
+      "cta": "Quero valorizar a cultura e identidade de Nhamatanda",
+      "tituloMissaoPagina": "Cultura, Identidade & Turismo",
+      "visivelNaGrelhaMissoes": true
+    },
+    {
+      "id": "programa-09",
+      "slug": "energia-viva",
+      "nome": "Energia Viva",
+      "assinatura": "Energia para viver, servir e produzir.",
+      "missao": "Energia",
+      "numeroMissao": null,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa de acesso e uso produtivo de energia, combinando expansão de rede e soluções descentralizadas conforme a viabilidade técnica de cada território.",
+      "visao": "Trabalhar para que nenhuma comunidade permaneça permanentemente excluída de uma solução segura e sustentável de energia.",
+      "problema": {
+        "descricao": "A falta ou insuficiência de energia afeta simultaneamente famílias, escolas, saúde, água e atividades produtivas.",
+        "questoesDiagnostico": [
+          "Cobertura atual",
+          "Comunidades sem acesso",
+          "Qualidade e continuidade do serviço",
+          "Serviços essenciais sem energia adequada",
+          "Potencial solar e mini-redes",
+          "Procura produtiva"
+        ],
+        "dadosEmFalta": [
+          "Mapa de eletrificação",
+          "Inventário de serviços essenciais",
+          "Estudos de procura e viabilidade"
+        ]
+      },
+      "solucao": {
+        "descricao": "Combinar soluções de rede, solar, mini-redes e energia produtiva conforme contexto e viabilidade.",
+        "frentes": [
+          "Expansão da Rede",
+          "Solar Comunitário",
+          "Mini-redes",
+          "Energia para Serviços Essenciais",
+          "Energia Produtiva",
+          "Comunidade Iluminada"
+        ]
+      },
+      "objetivos": [
+        "Expandir acesso seguro",
+        "Priorizar serviços essenciais",
+        "Apoiar bombagem de água",
+        "Viabilizar frio e processamento",
+        "Estimular usos produtivos"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Famílias",
+          "Escolas",
+          "Unidades sanitárias",
+          "Sistemas de água",
+          "Empresas e produtores"
+        ],
+        "indiretos": [
+          "Comunidades",
+          "Comércio local",
+          "Serviços públicos"
+        ]
+      },
+      "impactoEsperado": [
+        "Maior acesso a energia",
+        "Serviços essenciais mais resilientes",
+        "Novas atividades produtivas",
+        "Melhores condições para estudo, saúde, água e conservação"
+      ],
+      "indicadores": [
+        "Famílias/comunidades abrangidas",
+        "Serviços essenciais eletrificados",
+        "Capacidade instalada",
+        "Sistemas operacionais",
+        "Energia destinada a usos produtivos"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Energia",
+          "perfis": [
+            "Utilities",
+            "Empresas solares",
+            "Mini-grid developers",
+            "Armazenamento"
+          ]
+        },
+        {
+          "tipo": "Execução",
+          "perfis": [
+            "EPCs",
+            "Engenharia",
+            "Operadores"
+          ]
+        },
+        {
+          "tipo": "Capital",
+          "perfis": [
+            "Fundos climáticos",
+            "Instituições financeiras",
+            "Cooperação"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "vida-perto",
+          "nome": "Vida Perto",
+          "relacao": "Energia para saúde"
+        },
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Bombagem e tratamento"
+        },
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Regadio, frio e processamento"
+        },
+        {
+          "slug": "corredor-produtivo",
+          "nome": "Corredor Produtivo",
+          "relacao": "Energia para infraestrutura económica"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 6,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "16:9",
+            "conteudo": "Energia e comunidade em contexto territorial"
+          },
+          {
+            "tipo": "rede",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Rede elétrica existente"
+          },
+          {
+            "tipo": "solar",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Sistema solar real"
+          },
+          {
+            "tipo": "servicoEssencial",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Escola, saúde ou água alimentada por energia"
+          },
+          {
+            "tipo": "produtivo",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Energia aplicada à produção"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "panorâmica",
+            "conteudo": "Comunidade ou zona produtiva"
+          }
+        ],
+        "evitar": [
+          "Infraestrutura estrangeira apresentada como local"
+        ]
+      },
+      "documentosDesejados": [
+        "Mapa energético",
+        "Estudo de procura",
+        "Carteira de locais prioritários",
+        "Pré-viabilidade de soluções descentralizadas"
+      ],
+      "cta": "Quero participar na expansão energética",
+      "tituloMissaoPagina": null,
+      "visivelNaGrelhaMissoes": false
+    },
+    {
+      "id": "programa-10",
+      "slug": "vida-perto",
+      "nome": "Vida Perto",
+      "assinatura": "Cuidar mais cedo. Cuidar mais perto.",
+      "missao": "Saúde e Bem-Estar",
+      "numeroMissao": null,
+      "tipo": "Programa Estruturante",
+      "estado": "Em estruturação",
+      "prioridade": "Estratégica",
+      "resumo": "Programa integrado para aproximar prevenção, cuidados essenciais, saúde materno-infantil, nutrição, diagnóstico e referência das comunidades, reforçando simultaneamente a capacidade das unidades sanitárias.",
+      "visao": "Construir progressivamente uma rede distrital de saúde em que a distância deixe de ser uma barreira determinante ao acesso a cuidados essenciais.",
+      "problema": {
+        "descricao": "O programa parte da necessidade de compreender e reduzir barreiras territoriais e operacionais ao acesso à saúde.",
+        "questoesDiagnostico": [
+          "Distância e tempo até aos serviços",
+          "Capacidade e estado das unidades existentes",
+          "Disponibilidade de profissionais e equipamentos",
+          "Água, energia, saneamento e conectividade nas unidades",
+          "Saúde materna e infantil",
+          "Nutrição e vulnerabilidade",
+          "Diagnóstico, referência e transporte de urgência"
+        ],
+        "dadosEmFalta": [
+          "Mapa de cobertura sanitária",
+          "População por área de influência",
+          "Inventário atualizado de equipamentos e recursos humanos",
+          "Indicadores distritais de nutrição e referência"
+        ]
+      },
+      "solucao": {
+        "descricao": "Organizar saúde comunitária, unidades sanitárias, diagnóstico, nutrição, infraestrutura essencial e referência como uma única rede territorial.",
+        "frentes": [
+          "Rede Sanitária de Proximidade",
+          "Mãe & Criança",
+          "Diagnóstico Próximo",
+          "Saúde Comunitária",
+          "Infraestrutura Essencial para Saúde",
+          "Rede de Referência e Emergência"
+        ]
+      },
+      "objetivos": [
+        "Reduzir barreiras de acesso",
+        "Reforçar cuidados materno-infantis",
+        "Aproximar prevenção e diagnóstico",
+        "Integrar saúde e nutrição",
+        "Melhorar referência e resposta",
+        "Reforçar condições básicas das unidades"
+      ],
+      "beneficiarios": {
+        "diretos": [
+          "Crianças",
+          "Gestantes e mães",
+          "Famílias em comunidades distantes",
+          "Utentes das unidades sanitárias"
+        ],
+        "indiretos": [
+          "Profissionais de saúde",
+          "Agentes comunitários",
+          "Comunidades",
+          "Administração distrital"
+        ]
+      },
+      "impactoEsperado": [
+        "Maior proximidade dos cuidados essenciais",
+        "Melhor articulação entre comunidade e unidades",
+        "Melhores condições operacionais dos serviços prioritários",
+        "Maior capacidade de acompanhar nutrição e saúde materno-infantil"
+      ],
+      "indicadores": [
+        "Cobertura territorial dos serviços",
+        "Tempo médio de acesso",
+        "Unidades com água e energia funcionais",
+        "Referências de emergência acompanhadas",
+        "Cobertura dos serviços materno-infantis",
+        "Indicadores nutricionais oficiais"
+      ],
+      "parceirosProcurados": [
+        {
+          "tipo": "Institucional",
+          "perfis": [
+            "Autoridades de saúde",
+            "Serviços distritais competentes"
+          ]
+        },
+        {
+          "tipo": "Técnico",
+          "perfis": [
+            "Equipamentos médicos",
+            "Diagnóstico",
+            "Telemedicina",
+            "Transporte sanitário"
+          ]
+        },
+        {
+          "tipo": "Desenvolvimento",
+          "perfis": [
+            "Organizações de saúde",
+            "Agências de cooperação",
+            "Fundações"
+          ]
+        }
+      ],
+      "projetosRelacionados": [
+        {
+          "slug": "agua-segura",
+          "nome": "Água Segura",
+          "relacao": "Água e saneamento para unidades e comunidades"
+        },
+        {
+          "slug": "energia-viva",
+          "nome": "Energia Viva",
+          "relacao": "Energia para serviços essenciais"
+        },
+        {
+          "slug": "mesa-cheia",
+          "nome": "Mesa Cheia",
+          "relacao": "Nutrição e segurança alimentar"
+        },
+        {
+          "slug": "distrito-inteligente",
+          "nome": "Distrito Inteligente",
+          "relacao": "Dados, mapas e acompanhamento"
+        }
+      ],
+      "galeria": {
+        "totalFotos": 6,
+        "tipos": [
+          {
+            "tipo": "hero",
+            "quantidade": 1,
+            "orientacao": "horizontal 16:9",
+            "conteudo": "Unidade ou equipa de saúde em contexto real do distrito"
+          },
+          {
+            "tipo": "territorio",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Comunidade e distância/acesso"
+          },
+          {
+            "tipo": "servico",
+            "quantidade": 2,
+            "orientacao": "horizontal",
+            "conteudo": "Saúde materna, consulta, diagnóstico ou ação comunitária"
+          },
+          {
+            "tipo": "infraestrutura",
+            "quantidade": 1,
+            "orientacao": "horizontal",
+            "conteudo": "Unidade sanitária e condições físicas"
+          },
+          {
+            "tipo": "impactoHumano",
+            "quantidade": 1,
+            "orientacao": "vertical ou horizontal",
+            "conteudo": "Profissionais e beneficiários, com consentimento adequado"
+          }
+        ],
+        "evitar": [
+          "Fotos genéricas de stock",
+          "Imagens clínicas sensíveis",
+          "Imagens de menores sem autorização"
+        ]
+      },
+      "documentosDesejados": [
+        "Diagnóstico sanitário distrital",
+        "Mapa de cobertura",
+        "Inventário de unidades",
+        "Plano de implementação",
+        "Quadro de indicadores"
+      ],
+      "cta": "Quero contribuir para aproximar a saúde",
+      "tituloMissaoPagina": null,
+      "visivelNaGrelhaMissoes": false
+    }
+  ],
+  "notaMapeamento": "numeroMissao e tituloMissaoPagina alinham cada programa à ordem e ao título das 8 missões em /governacao. Para a missão 02 (Água, Saúde & Dignidade) foi escolhido 'agua-segura' como programa principal — o ícone da missão na página é uma gota de água. 'vida-perto' (Saúde) e 'energia-viva' (sem missão própria) ficam com visivelNaGrelhaMissoes: false: não aparecem no grid das 8 missões, mas continuam no JSON e continuam referenciados em projetosRelacionados de outros programas. Foram criados dois programas novos para as missões que não tinham nenhum: 'chao-firme' (missão 06) e 'raizes' (missão 08)."
+}

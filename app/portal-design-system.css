@@ -1,0 +1,17 @@
+/* Apenas variáveis: não altera o menu, footer ou outras páginas. */
+:root {
+  --portal-font: Arial, Helvetica, sans-serif;
+  --portal-green: #166b45;
+  --portal-green-hover: #104f34;
+  --portal-navy: #102344;
+  --portal-muted: #536178;
+  --portal-line: #e1e8e4;
+  --portal-surface: #f0f7f3;
+  --portal-container: 1600px;
+  --portal-gutter: clamp(20px, 4vw, 64px);
+  --portal-radius: 12px;
+  --portal-button-radius: 6px;
+  --portal-body-size: 16px;
+  --portal-small-size: 14px;
+  --portal-section-gap: clamp(32px, 4vw, 56px);
+}

@@ -1,0 +1,548 @@
+[
+  {
+    "slug": "producao-horticolas-inhaminga",
+    "titulo": "Produção de Hortícolas em Regadio – Zona de Inhaminga",
+    "categoria": "PPP",
+    "setor": "Agricultura",
+    "fase": "Ideia",
+    "localizacao": "Inhaminga",
+    "imagem": "/images/img1.png",
+    "resumo": "Exploração agrícola de hortícolas com sistema de regadio, aproveitando solos férteis e disponibilidade hídrica da zona.",
+    "potencial": "A zona de Inhaminga possui solos férteis e acesso a fontes de água que permitem produção agrícola durante todo o ano, com potencial para abastecer mercados locais e regionais.",
+    "vantagensDoDistrito": "Terra disponível para exploração, proximidade a vias de escoamento e apoio técnico dos serviços distritais de agricultura.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Enviar proposta técnica e financeira através do formulário de contacto desta página, indicando escala pretendida e cronograma.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "02 Mai 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "8 hectares",
+    "investimentoEstimado": "45.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "12 meses",
+    "empregosDiretos": 40,
+    "empregosIndiretos": 90
+  },
+  {
+    "slug": "processamento-frutas-citricas",
+    "titulo": "Unidade de Processamento de Frutas Cítricas",
+    "categoria": "PPP",
+    "setor": "Indústria",
+    "fase": "Planeamento",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img2.png",
+    "resumo": "Unidade agroindustrial para processamento e valorização de frutas cítricas produzidas na região.",
+    "potencial": "A região regista elevada produção de citrinos sem capacidade instalada de processamento local, gerando perdas pós-colheita significativas.",
+    "vantagensDoDistrito": "Terreno identificado próximo à rede elétrica e estrada N1, ligação a cooperativas de produtores já organizadas.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Submeter proposta de parceria público-privada com plano de negócio detalhado à Administração Distrital.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "18 Abr 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Parceria Público-Privada",
+    "estado": "Em Estruturação",
+    "areaTerreno": "3.5 hectares",
+    "investimentoEstimado": "120.000.000 MZN",
+    "modeloInvestimento": "Concessão (PPP)",
+    "prazoEstimado": "18 meses",
+    "empregosDiretos": 60,
+    "empregosIndiretos": 150
+  },
+  {
+    "slug": "parque-solar-fotovoltaico",
+    "titulo": "Parque Solar Fotovoltaico de Nhamatanda (30MW)",
+    "categoria": "Investimento Privado",
+    "setor": "Energia",
+    "fase": "Estruturação",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img3.png",
+    "resumo": "Central de energia solar fotovoltaica com capacidade de 30MW, para reforço da rede elétrica regional.",
+    "potencial": "Elevada radiação solar e disponibilidade de terreno plano tornam a zona propícia à geração de energia renovável em grande escala.",
+    "vantagensDoDistrito": "Terreno já identificado e estudos de viabilidade técnica preliminares disponíveis, proximidade a linhas de transmissão existentes.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Investidores interessados devem contactar o Gabinete de Investimento para acesso aos estudos técnicos preliminares.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "25 Mar 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "40 hectares",
+    "investimentoEstimado": "850.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "24 meses",
+    "empregosDiretos": 25,
+    "empregosIndiretos": 60
+  },
+  {
+    "slug": "eco-lodge-serra-zembe",
+    "titulo": "Eco-Lodge e Turismo de Natureza na Serra de Zembe",
+    "categoria": "Investimento Privado",
+    "setor": "Turismo",
+    "fase": "DPP",
+    "localizacao": "Zembe",
+    "imagem": "/images/img4.png",
+    "resumo": "Empreendimento turístico de baixo impacto ambiental, aproveitando a paisagem natural da Serra de Zembe.",
+    "potencial": "Paisagem natural preservada com potencial para ecoturismo, trilhos e observação da fauna e flora local.",
+    "vantagensDoDistrito": "Área com Documento de Planeamento e Programação (DPP) já elaborado, acesso facilitado pela estrada regional.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Consultar o DPP disponível no Gabinete de Investimento e submeter manifestação de interesse.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "10 Mar 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "6 hectares",
+    "investimentoEstimado": "60.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "15 meses",
+    "empregosDiretos": 20,
+    "empregosIndiretos": 35
+  },
+  {
+    "slug": "reabilitacao-estrada-n1-troco-nhamatanda",
+    "titulo": "Reabilitação da Estrada N1 – Troço Nhamatanda",
+    "categoria": "PPP",
+    "setor": "Infraestrutura",
+    "fase": "Estruturação",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img5.png",
+    "resumo": "Projeto de reabilitação e manutenção de longo prazo do troço da estrada nacional N1 que atravessa o distrito.",
+    "potencial": "Melhoria da infraestrutura viária com impacto direto no comércio, escoamento agrícola e mobilidade da população.",
+    "vantagensDoDistrito": "Estudos de tráfego preliminares disponíveis e apoio institucional para modelo de concessão.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Parcerias público-privadas devem ser submetidas através do Catálogo de Projetos PPP, com proposta técnica detalhada.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "05 Mar 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Parceria Público-Privada",
+    "estado": "Em Estruturação",
+    "areaTerreno": "—",
+    "investimentoEstimado": "600.000.000 MZN",
+    "modeloInvestimento": "Concessão (PPP)",
+    "prazoEstimado": "36 meses",
+    "empregosDiretos": 200,
+    "empregosIndiretos": 400
+  },
+  {
+    "slug": "centro-logistico-armazem",
+    "titulo": "Centro Logístico de Nhamatanda",
+    "categoria": "PPP",
+    "setor": "Comércio e Logística",
+    "fase": "Ideia",
+    "localizacao": "Distrito de Nhamatanda",
+    "imagem": "/images/img6.png",
+    "resumo": "Desenvolvimento de um centro logístico moderno para armazenamento, distribuição e serviços de apoio ao comércio e à indústria regional.",
+    "potencial": "Elevados volumes de produção agrícola sem capacidade de armazenamento adequada, gerando perdas e limitando o acesso a mercados mais distantes.",
+    "vantagensDoDistrito": "Terreno junto à estrada N1, próximo às principais zonas de produção agrícola do distrito.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Enviar proposta técnica e financeira através do formulário de contacto desta página.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "10 Mai 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Em Desenvolvimento",
+    "areaTerreno": "5.2 hectares",
+    "investimentoEstimado": "350.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "24 meses",
+    "empregosDiretos": 150,
+    "empregosIndiretos": 300,
+    "galeria": [
+      "/images/img1.png",
+      "/images/img2.png",
+      "/images/img3.png",
+      "/images/img4.png"
+    ],
+    "descricaoDetalhada": [
+      "O Centro Logístico de Nhamatanda pretende tornar-se um polo estratégico para o armazenamento e distribuição de bens na região centro do país, aproveitando a sua localização privilegiada junto à EN6 e à linha férrea.",
+      "O projeto inclui armazéns modulares, áreas de carga e descarga, escritórios administrativos, parque de camiões e serviços de apoio logístico."
+    ],
+    "alinhamentoEstrategico": "Alinhado com o Plano Estratégico de Desenvolvimento do Distrito de Nhamatanda 2023-2027.",
+    "porQueInvestir": [
+      "Localização estratégica próxima a principais corredores rodoviários e ferroviários.",
+      "Crescente demanda por serviços logísticos na região.",
+      "Incentivos fiscais e apoio do governo distrital.",
+      "Infraestrutura básica disponível no local."
+    ],
+    "detalhesProjeto": [
+      {
+        "titulo": "Infraestrutura Prevista",
+        "descricao": "Armazéns, escritórios, parque de camiões, segurança e serviços complementares.",
+        "icone": "infraestruturaPrevista"
+      },
+      {
+        "titulo": "Serviços Previstos",
+        "descricao": "Armazenagem, distribuição, gestão de inventário, transporte e serviços aduaneiros de apoio.",
+        "icone": "servicosPrevistos"
+      },
+      {
+        "titulo": "Infraestrutura Existente",
+        "descricao": "Acesso por estrada pavimentada, energia elétrica, água, telecomunicações disponíveis.",
+        "icone": "infraestruturaExistente"
+      },
+      {
+        "titulo": "Estágio Atual",
+        "descricao": "Estudos técnicos e ambientais concluídos. Em fase de captação de investidor.",
+        "icone": "estagioAtual"
+      },
+      {
+        "titulo": "Documentos Disponíveis",
+        "descricao": "Estudos de viabilidade, plantas preliminares e informações legais do terreno.",
+        "icone": "documentos"
+      }
+    ],
+    "documentos": [
+      {
+        "nome": "Ficha do Projeto",
+        "tipo": "PDF",
+        "tamanho": "1.2 MB",
+        "url": "/documents/centro-logistico-ficha.pdf"
+      },
+      {
+        "nome": "Estudo de Viabilidade",
+        "tipo": "PDF",
+        "tamanho": "4.8 MB",
+        "url": "/documents/centro-logistico-viabilidade.pdf"
+      },
+      {
+        "nome": "Planta do Terreno",
+        "tipo": "PDF",
+        "tamanho": "2.3 MB",
+        "url": "/documents/centro-logistico-planta.pdf"
+      },
+      {
+        "nome": "Termos de Referência",
+        "tipo": "PDF",
+        "tamanho": "1.1 MB",
+        "url": "/documents/centro-logistico-termos.pdf"
+      }
+    ],
+    "tipoPPP": "Concessão",
+    "duracaoContrato": "25 anos",
+    "dataPrevistaLancamento": "4º Trimestre 2025",
+    "progresso": 45,
+    "etapasProgresso": [
+      {
+        "nome": "Identificação",
+        "estado": "concluido"
+      },
+      {
+        "nome": "Estudos de Viabilidade",
+        "estado": "concluido"
+      },
+      {
+        "nome": "Estruturação",
+        "estado": "em-andamento"
+      },
+      {
+        "nome": "Consulta ao Mercado",
+        "estado": "pendente"
+      },
+      {
+        "nome": "Lançamento",
+        "estado": "pendente"
+      }
+    ],
+    "beneficios": [
+      {
+        "titulo": "Aumento da produção agrícola",
+        "descricao": "Incremento significativo da produtividade e diversificação de culturas.",
+        "icone": "trendingUp"
+      },
+      {
+        "titulo": "Geração de Emprego",
+        "descricao": "Criação de mais de 2.000 empregos diretos e indiretos.",
+        "icone": "briefcase"
+      },
+      {
+        "titulo": "Segurança Alimentar",
+        "descricao": "Contribuição para a segurança alimentar e redução das importações.",
+        "icone": "shield"
+      },
+      {
+        "titulo": "Desenvolvimento Local",
+        "descricao": "Impulso ao desenvolvimento económico e social da região.",
+        "icone": "home"
+      }
+    ],
+    "parceiros": [
+      {
+        "nome": "Ministério da Agricultura",
+        "papel": "Entidade Proponente"
+      },
+      {
+        "nome": "Governo do Distrito de Nhamatanda",
+        "papel": "Parceiro Público"
+      },
+      {
+        "nome": "Parceiros Privados",
+        "papel": "Em negociação",
+        "estado": "Em negociação"
+      },
+      {
+        "nome": "Instituições Financeiras",
+        "papel": "Em negociação",
+        "estado": "Em negociação"
+      }
+    ]
+  },
+  {
+    "slug": "clinica-privada-sede-distrital",
+    "titulo": "Clínica Privada de Saúde na Sede Distrital",
+    "categoria": "Investimento Privado",
+    "setor": "Saúde",
+    "fase": "Ideia",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img7.png",
+    "resumo": "Unidade privada de cuidados de saúde primários, complementando a oferta pública existente na sede do distrito.",
+    "potencial": "Crescimento populacional e insuficiente capacidade de resposta dos serviços públicos de saúde criam procura para oferta privada complementar.",
+    "vantagensDoDistrito": "Terreno disponível em zona central, próximo a vias principais e áreas residenciais em expansão.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Enviar proposta técnica e financeira através do formulário de contacto desta página.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "22 Fev 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "1.2 hectares",
+    "investimentoEstimado": "30.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "10 meses",
+    "empregosDiretos": 15,
+    "empregosIndiretos": 20
+  },
+  {
+    "slug": "fabrica-racoes-animais",
+    "titulo": "Fábrica de Rações para Animais",
+    "categoria": "Investimento Privado",
+    "setor": "Indústria",
+    "fase": "Planeamento",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img8.png",
+    "resumo": "Unidade de produção de rações animais a partir de matérias-primas agrícolas locais, servindo produtores pecuários da região.",
+    "potencial": "Crescimento da pecuária regional sem oferta local de rações de qualidade, dependendo atualmente de fornecedores distantes.",
+    "vantagensDoDistrito": "Disponibilidade de matéria-prima agrícola local e terreno industrial já zoneado para este tipo de atividade.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Submeter proposta técnica e financeira ao Gabinete de Investimento.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "14 Fev 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Em Planeamento",
+    "areaTerreno": "2.8 hectares",
+    "investimentoEstimado": "95.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "14 meses",
+    "empregosDiretos": 35,
+    "empregosIndiretos": 70
+  },
+  {
+    "slug": "concessao-abastecimento-agua-rural",
+    "titulo": "Concessão de Abastecimento de Água em Zonas Rurais",
+    "categoria": "PPP",
+    "setor": "Infraestrutura",
+    "fase": "Estruturação",
+    "localizacao": "Inhaminga",
+    "imagem": "/images/img9.png",
+    "resumo": "Modelo de concessão para expansão e gestão de sistemas de abastecimento de água potável em localidades rurais.",
+    "potencial": "Baixa cobertura de água potável em zonas rurais representa desafio de saúde pública e oportunidade de parceria de longo prazo.",
+    "vantagensDoDistrito": "Levantamento de fontes de água já realizado, apoio técnico dos serviços distritais de águas.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Propostas de concessão devem ser submetidas através do Catálogo de Projetos PPP.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "30 Jan 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Parceria Público-Privada",
+    "estado": "Em Estruturação",
+    "areaTerreno": "—",
+    "investimentoEstimado": "180.000.000 MZN",
+    "modeloInvestimento": "Concessão (PPP)",
+    "prazoEstimado": "30 meses",
+    "empregosDiretos": 50,
+    "empregosIndiretos": 100
+  },
+  {
+    "slug": "mercado-artesanato-cultura-local",
+    "titulo": "Mercado de Artesanato e Cultura Local",
+    "categoria": "PPP",
+    "setor": "Comércio",
+    "fase": "Ideia",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img10.png",
+    "resumo": "Espaço comercial dedicado à venda de artesanato e produtos culturais locais, promovendo a economia criativa do distrito.",
+    "potencial": "Produção artesanal dispersa e sem canal de venda estruturado, limitando o rendimento de artesãos locais.",
+    "vantagensDoDistrito": "Terreno central com boa visibilidade, proximidade a pontos turísticos e eventos culturais.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Enviar proposta técnica e financeira através do formulário de contacto desta página.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "18 Jan 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "0.8 hectares",
+    "investimentoEstimado": "18.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "8 meses",
+    "empregosDiretos": 25,
+    "empregosIndiretos": 40
+  },
+  {
+    "slug": "central-processamento-milho",
+    "titulo": "Central de Processamento de Milho",
+    "categoria": "PPP",
+    "setor": "Agricultura",
+    "fase": "Planeamento",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img11.png",
+    "resumo": "Unidade de moagem e processamento de milho para valorização da produção agrícola e criação de emprego local.",
+    "potencial": "Elevada produção de milho na região sem capacidade de processamento local, gerando dependência de farinha importada de outras zonas.",
+    "vantagensDoDistrito": "Terra disponível, ligação institucional a cooperativas de produtores, dados e estudos preliminares já existentes.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Propostas de parceria público-privada devem ser submetidas através do Catálogo de Projetos PPP.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "05 Jan 2024",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Parceria Público-Privada",
+    "estado": "Em Planeamento",
+    "areaTerreno": "4 hectares",
+    "investimentoEstimado": "210.000.000 MZN",
+    "modeloInvestimento": "Concessão (PPP)",
+    "prazoEstimado": "20 meses",
+    "empregosDiretos": 55,
+    "empregosIndiretos": 120
+  },
+  {
+    "slug": "hotel-turismo-negocios-sede",
+    "titulo": "Hotel de Turismo de Negócios na Sede Distrital",
+    "categoria": "Investimento Privado",
+    "setor": "Turismo",
+    "fase": "Ideia",
+    "localizacao": "Sede do Distrito",
+    "imagem": "/images/img12.png",
+    "resumo": "Unidade hoteleira vocacionada para turismo de negócios, servindo investidores e visitantes institucionais do distrito.",
+    "potencial": "Aumento da procura por alojamento de qualidade, associado ao crescimento do investimento e visitas institucionais ao distrito.",
+    "vantagensDoDistrito": "Terreno em zona central, próximo aos principais serviços administrativos e vias de acesso.",
+    "criteriosDeAvaliacao": [
+      "Boa governação e transparência da proposta",
+      "Valorização e capacitação do pessoal local",
+      "Novos empregos gerados",
+      "Impacto comunitário e transformação de vida das pessoas"
+    ],
+    "comoSubmeter": "Enviar proposta técnica e financeira através do formulário de contacto desta página.",
+    "contacto": {
+      "nome": "Gabinete de Investimento",
+      "email": "investimento@nhamatanda.gov.mz",
+      "telefone": "+258 84 123 4567"
+    },
+    "publicadoEm": "20 Dez 2023",
+    "promotor": "Governo do Distrito de Nhamatanda",
+    "tipoInvestimento": "Investimento Direto",
+    "estado": "Aberto a Propostas",
+    "areaTerreno": "2 hectares",
+    "investimentoEstimado": "140.000.000 MZN",
+    "modeloInvestimento": "Investimento Direto",
+    "prazoEstimado": "18 meses",
+    "empregosDiretos": 45,
+    "empregosIndiretos": 80
+  }
+]

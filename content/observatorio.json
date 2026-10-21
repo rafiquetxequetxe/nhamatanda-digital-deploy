@@ -1,0 +1,506 @@
+{
+  "demonstrativo": true,
+  "hero": {
+    "imagem": "/images/investir/hero.jpg",
+    "alt": "Paisagem apresentada no portal de Nhamatanda",
+    "titulo": "Conheça Nhamatanda através dos dados.",
+    "descricao": "Explore os indicadores que ajudam a compreender o desenvolvimento do distrito."
+  },
+  "indicadorInicial": "producao-agricola",
+  "destaques": [
+    {
+      "indicador": "populacao",
+      "rotulo": "População",
+      "icone": "people",
+      "divisor": 1000,
+      "sufixo": "mil"
+    },
+    {
+      "indicador": "producao-agricola",
+      "rotulo": "Produção agrícola",
+      "icone": "leaf",
+      "divisor": 1000,
+      "sufixo": "mil t"
+    },
+    {
+      "indicador": "comercio",
+      "rotulo": "Actividade comercial",
+      "icone": "trade",
+      "divisor": 1,
+      "sufixo": "M MZN"
+    },
+    {
+      "indicador": "estradas",
+      "rotulo": "Rede rodoviária",
+      "icone": "road",
+      "divisor": 1,
+      "sufixo": "km"
+    }
+  ],
+  "indicadores": [
+    {
+      "id": "populacao",
+      "titulo": "População",
+      "categoria": "População",
+      "unidade": "habitantes",
+      "tipo": "area",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "A evolução da população ajuda a dimensionar a procura por serviços, habitação e bens de consumo.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 280000
+        },
+        {
+          "ano": 2016,
+          "valor": 287000
+        },
+        {
+          "ano": 2017,
+          "valor": 295000
+        },
+        {
+          "ano": 2018,
+          "valor": 303000
+        },
+        {
+          "ano": 2019,
+          "valor": 312000
+        },
+        {
+          "ano": 2020,
+          "valor": 322000
+        },
+        {
+          "ano": 2021,
+          "valor": 333000
+        },
+        {
+          "ano": 2022,
+          "valor": 343000
+        },
+        {
+          "ano": 2023,
+          "valor": 352000
+        },
+        {
+          "ano": 2024,
+          "valor": 360000
+        }
+      ]
+    },
+    {
+      "id": "producao-agricola",
+      "titulo": "Produção agrícola",
+      "categoria": "Agricultura",
+      "unidade": "t",
+      "tipo": "barra",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "Compare a evolução da produção ao longo do período seleccionado. A quantidade produzida, por si só, não mede produtividade ou rentabilidade.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 62000
+        },
+        {
+          "ano": 2016,
+          "valor": 67000
+        },
+        {
+          "ano": 2017,
+          "valor": 71000
+        },
+        {
+          "ano": 2018,
+          "valor": 76000
+        },
+        {
+          "ano": 2019,
+          "valor": 80000
+        },
+        {
+          "ano": 2020,
+          "valor": 85000
+        },
+        {
+          "ano": 2021,
+          "valor": 97000
+        },
+        {
+          "ano": 2022,
+          "valor": 106000
+        },
+        {
+          "ano": 2023,
+          "valor": 115000
+        },
+        {
+          "ano": 2024,
+          "valor": 135000
+        }
+      ]
+    },
+    {
+      "id": "area-cultivada",
+      "titulo": "Área cultivada",
+      "categoria": "Agricultura",
+      "unidade": "ha",
+      "tipo": "linha",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "A área cultivada permite observar a utilização agrícola do território. Não representa terra disponível para investimento.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 25000
+        },
+        {
+          "ano": 2016,
+          "valor": 26200
+        },
+        {
+          "ano": 2017,
+          "valor": 27000
+        },
+        {
+          "ano": 2018,
+          "valor": 28100
+        },
+        {
+          "ano": 2019,
+          "valor": 29400
+        },
+        {
+          "ano": 2020,
+          "valor": 30000
+        },
+        {
+          "ano": 2021,
+          "valor": 31500
+        },
+        {
+          "ano": 2022,
+          "valor": 32600
+        },
+        {
+          "ano": 2023,
+          "valor": 33900
+        },
+        {
+          "ano": 2024,
+          "valor": 35000
+        }
+      ]
+    },
+    {
+      "id": "comercio",
+      "titulo": "Actividade comercial",
+      "categoria": "Economia",
+      "unidade": "milhões MZN",
+      "tipo": "linha",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "Observe a evolução do valor da actividade comercial. Os valores do exemplo são nominais e não foram ajustados pela inflação.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 185
+        },
+        {
+          "ano": 2016,
+          "valor": 200
+        },
+        {
+          "ano": 2017,
+          "valor": 216
+        },
+        {
+          "ano": 2018,
+          "valor": 230
+        },
+        {
+          "ano": 2019,
+          "valor": 250
+        },
+        {
+          "ano": 2020,
+          "valor": 270
+        },
+        {
+          "ano": 2021,
+          "valor": 295
+        },
+        {
+          "ano": 2022,
+          "valor": 320
+        },
+        {
+          "ano": 2023,
+          "valor": 360
+        },
+        {
+          "ano": 2024,
+          "valor": 410
+        }
+      ]
+    },
+    {
+      "id": "estradas",
+      "titulo": "Rede rodoviária pavimentada",
+      "categoria": "Infraestruturas",
+      "unidade": "km",
+      "tipo": "barra",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "A extensão pavimentada dá contexto às ligações do território. Não informa, por si só, sobre o estado de conservação das vias.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 94
+        },
+        {
+          "ano": 2016,
+          "valor": 99
+        },
+        {
+          "ano": 2017,
+          "valor": 106
+        },
+        {
+          "ano": 2018,
+          "valor": 112
+        },
+        {
+          "ano": 2019,
+          "valor": 118
+        },
+        {
+          "ano": 2020,
+          "valor": 122
+        },
+        {
+          "ano": 2021,
+          "valor": 131
+        },
+        {
+          "ano": 2022,
+          "valor": 140
+        },
+        {
+          "ano": 2023,
+          "valor": 148
+        },
+        {
+          "ano": 2024,
+          "valor": 156
+        }
+      ]
+    },
+    {
+      "id": "escolas",
+      "titulo": "Estabelecimentos de ensino",
+      "categoria": "Serviços",
+      "unidade": "estabelecimentos",
+      "tipo": "barra",
+      "demonstrativo": true,
+      "fonte": "Série fictícia para demonstração do portal",
+      "leitura": "O número de estabelecimentos permite observar a evolução da rede. Não mede capacidade, qualidade ou cobertura do ensino.",
+      "metodologia": "Valores anuais fictícios criados para apresentar a navegação, os gráficos e a exportação. Não utilizar para decisões sobre o distrito. A variação compara os dois últimos valores disponíveis no período seleccionado.",
+      "dados": [
+        {
+          "ano": 2015,
+          "valor": 71
+        },
+        {
+          "ano": 2016,
+          "valor": 73
+        },
+        {
+          "ano": 2017,
+          "valor": 76
+        },
+        {
+          "ano": 2018,
+          "valor": 78
+        },
+        {
+          "ano": 2019,
+          "valor": 82
+        },
+        {
+          "ano": 2020,
+          "valor": 85
+        },
+        {
+          "ano": 2021,
+          "valor": 89
+        },
+        {
+          "ano": 2022,
+          "valor": 94
+        },
+        {
+          "ano": 2023,
+          "valor": 98
+        },
+        {
+          "ano": 2024,
+          "valor": 104
+        }
+      ]
+    }
+  ],
+  "territorio": [
+    {
+      "id": "producao-por-area",
+      "titulo": "Produção agrícola",
+      "unidade": "t",
+      "ano": 2024,
+      "demonstrativo": true,
+      "fonte": "Comparação territorial fictícia",
+      "nota": "Áreas e quantidades ilustrativas, sem correspondência com divisões administrativas reais.",
+      "areas": [
+        {
+          "nome": "Área A",
+          "valor": 65000
+        },
+        {
+          "nome": "Área B",
+          "valor": 43000
+        },
+        {
+          "nome": "Área C",
+          "valor": 27000
+        }
+      ]
+    },
+    {
+      "id": "escolas-por-area",
+      "titulo": "Estabelecimentos de ensino",
+      "unidade": "estabelecimentos",
+      "ano": 2024,
+      "demonstrativo": true,
+      "fonte": "Comparação territorial fictícia",
+      "nota": "Áreas e quantidades ilustrativas, sem correspondência com divisões administrativas reais.",
+      "areas": [
+        {
+          "nome": "Área A",
+          "valor": 46
+        },
+        {
+          "nome": "Área B",
+          "valor": 34
+        },
+        {
+          "nome": "Área C",
+          "valor": 24
+        }
+      ]
+    }
+  ],
+  "publicacoes": [
+    {
+      "id": "panorama",
+      "titulo": "Panorama do distrito",
+      "tipo": "Relatório",
+      "ano": 2024,
+      "demonstrativo": true,
+      "resumo": "Indicadores, contexto e notas de leitura.",
+      "url": null,
+      "indicador": "producao-agricola",
+      "seccoes": [
+        {
+          "titulo": "Sobre este exemplo",
+          "texto": "Esta publicação demonstra a apresentação dos documentos no portal. Não é um relatório oficial do distrito."
+        },
+        {
+          "titulo": "Como consultar",
+          "texto": "Explore o indicador associado, alterne entre gráfico e tabela e descarregue a série em CSV. Os valores são fictícios."
+        },
+        {
+          "titulo": "Informação definitiva",
+          "texto": "O conteúdo e o documento final serão substituídos pela equipa técnica após a disponibilização da informação pelo distrito."
+        }
+      ]
+    },
+    {
+      "id": "boletim",
+      "titulo": "Boletim de indicadores",
+      "tipo": "Boletim",
+      "ano": 2024,
+      "demonstrativo": true,
+      "resumo": "Uma síntese dos indicadores disponíveis para exploração.",
+      "url": null,
+      "indicador": "comercio",
+      "seccoes": [
+        {
+          "titulo": "Sobre este exemplo",
+          "texto": "Esta publicação demonstra a apresentação dos documentos no portal. Não é um relatório oficial do distrito."
+        },
+        {
+          "titulo": "Como consultar",
+          "texto": "Explore o indicador associado, alterne entre gráfico e tabela e descarregue a série em CSV. Os valores são fictícios."
+        },
+        {
+          "titulo": "Informação definitiva",
+          "texto": "O conteúdo e o documento final serão substituídos pela equipa técnica após a disponibilização da informação pelo distrito."
+        }
+      ]
+    },
+    {
+      "id": "agricultura",
+      "titulo": "Perfil agrícola",
+      "tipo": "Perfil sectorial",
+      "ano": 2024,
+      "demonstrativo": true,
+      "resumo": "Uma leitura da produção e da área cultivada.",
+      "url": null,
+      "indicador": "area-cultivada",
+      "seccoes": [
+        {
+          "titulo": "Sobre este exemplo",
+          "texto": "Esta publicação demonstra a apresentação dos documentos no portal. Não é um relatório oficial do distrito."
+        },
+        {
+          "titulo": "Como consultar",
+          "texto": "Explore o indicador associado, alterne entre gráfico e tabela e descarregue a série em CSV. Os valores são fictícios."
+        },
+        {
+          "titulo": "Informação definitiva",
+          "texto": "O conteúdo e o documento final serão substituídos pela equipa técnica após a disponibilização da informação pelo distrito."
+        }
+      ]
+    },
+    {
+      "id": "metodologia",
+      "titulo": "Notas metodológicas",
+      "tipo": "Metodologia",
+      "ano": 2024,
+      "demonstrativo": true,
+      "resumo": "Como interpretar séries, unidades e variações.",
+      "url": null,
+      "indicador": "populacao",
+      "seccoes": [
+        {
+          "titulo": "Sobre este exemplo",
+          "texto": "Esta publicação demonstra a apresentação dos documentos no portal. Não é um relatório oficial do distrito."
+        },
+        {
+          "titulo": "Como consultar",
+          "texto": "Explore o indicador associado, alterne entre gráfico e tabela e descarregue a série em CSV. Os valores são fictícios."
+        },
+        {
+          "titulo": "Informação definitiva",
+          "texto": "O conteúdo e o documento final serão substituídos pela equipa técnica após a disponibilização da informação pelo distrito."
+        }
+      ]
+    }
+  ]
+}

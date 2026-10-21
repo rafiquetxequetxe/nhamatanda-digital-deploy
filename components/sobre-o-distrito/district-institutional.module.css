@@ -1,0 +1,40 @@
+.timeline { display:grid; grid-auto-flow:column; grid-auto-columns:minmax(210px,1fr); list-style:none; margin:44px 0 0; padding:0 0 18px; overflow-x:auto; }
+.milestone { position:relative; padding:34px 25px 0 0; border-top:2px solid #d9e3d6; }
+.milestone:last-child { padding-right:0; }
+.dot { position:absolute; top:-8px; left:0; height:14px; width:14px; background:#166b45; border:3px solid #fff; border-radius:50%; box-shadow:0 0 0 1px #166b45; }
+/* Espaço superior evita cortar o ponto na zona de scroll horizontal. */
+.timeline { padding-top:10px; }
+.date { color:#166b45; font-weight:700; font-size:15px; letter-spacing:.02em; }
+.milestone h3 { margin-top:12px; font-size:19px; font-weight:600; line-height:1.4; }
+.milestone .description,.teamBody .description { margin-top:12px; color:#5d6d68; font-size:14px; line-height:1.8; }
+.milestone .source,.leadBody .source,.teamBody .source { margin-top:18px; color:#5d6d68; font-size:12px; line-height:1.7; overflow-wrap:anywhere; }
+.source a { color:#166b45; text-decoration:underline; text-underline-offset:3px; }
+.empty.empty { margin-top:30px; padding:22px 25px; border-left:3px solid #166b45; background:#edf3ea; font-size:14px; line-height:1.9; color:#52665a; max-width:850px; }
+.empty a { margin-top:14px; }
+.leadCard { display:grid; grid-template-columns:minmax(220px,340px) minmax(0,1fr); margin-top:36px; border-radius:14px; overflow:hidden; border:1px solid #dfe7da; background:#fff; }
+.leadPortrait { position:relative; min-height:360px; background:#e5ecdf; }
+.leadPortrait img,.teamPortrait img { object-position:center 25%; }
+.portraitFallback { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; color:#64866c; background:#e5ecdf; }
+.portraitFallback svg { width:70px; height:70px; stroke-width:1; }
+.leadBody { align-self:center; padding:clamp(25px,4vw,56px); }
+.role { color:#166b45; font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; line-height:1.7; }
+.leadBody h3 { margin-top:12px; font-size:clamp(26px,3vw,37px); font-weight:600; line-height:1.2; letter-spacing:-.025em; }
+.leadBody .biography { margin-top:20px; color:#5d6d68; font-size:16px; line-height:1.85; max-width:650px; }
+.leadBody > a { margin-top:24px; }
+.team { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; margin-top:24px; }
+.teamCard { background:#fff; border:1px solid #dfe7da; border-radius:12px; overflow:hidden; }
+.teamPortrait { position:relative; height:240px; }
+.teamBody { padding:23px; }
+.teamBody h3 { margin-top:10px; font-size:20px; font-weight:600; line-height:1.4; }
+.team ~ .verified,.leadCard ~ .verified { margin-top:20px; color:#5d6d68; font-size:12px; line-height:1.8; }
+@media(max-width:1000px) { .team { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:760px) {
+ .timeline { display:block; padding:0 0 0 8px; overflow:visible; margin-top:32px; }
+ .milestone { border-top:0; border-left:2px solid #d9e3d6; padding:0 0 32px 26px; }
+ .milestone:last-child { padding-bottom:0; }
+ .dot { top:5px; left:-8px; }
+ .leadCard { grid-template-columns:1fr; }
+ .leadPortrait { min-height:0; height:360px; }
+ .team { grid-template-columns:1fr; }
+ .teamPortrait { height:300px; }
+}
