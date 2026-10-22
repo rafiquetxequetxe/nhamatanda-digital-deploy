@@ -11,7 +11,7 @@ import s from "@/components/oportunidades/oportunidades.module.css";
 const contactos = [
   { Icon: IconMapPin, titulo: "Morada", linhas: ["Vila-Sede, Rua Samora Moisés Machel, Nhamatanda - Sofala"] },
 { Icon: IconPhone, titulo: "Telefone", linhas: ["+258 86 30 98 740", "+258 84 77 19 343"] },
-  { Icon: IconMail, titulo: "Email", linhas: ["A confirmar"] },
+  { Icon: IconMail, titulo: "Email", linhas: ["gabinete@nhamatanda.gov.mz"] },
   { Icon: IconClock, titulo: "Horário", linhas: ["7:30h – 15:30h"] },
 ];
 const perguntas = [
